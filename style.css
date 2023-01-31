@@ -5,8 +5,8 @@
   }
   
   header {
-    background-color: #333;
-    color: #fff;
+    background-color: lightcoral;
+    color: #212121;
     padding: 20px;
     text-align: center;
   }
@@ -41,8 +41,8 @@
   }
   
   footer {
-    background-color: #333;
-    color: #fff;
+    background-color: lightcoral;
+    color: #212121;
     padding: 20px;
     text-align: center;
   }
